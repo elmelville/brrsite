@@ -1,6 +1,5 @@
 <div class="well">
       <h1 class="align-center">Show us some love and we'll get back to you !
-        {?contact}<small class="pull-right">Visit Count: {contact}</small>{/contact}
       </h1>
       <hr/>
       <div class="input-group input-group-lg">

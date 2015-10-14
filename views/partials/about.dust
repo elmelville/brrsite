@@ -1,15 +1,14 @@
 <div class="panel panel-primary">
-      <div class="panel-heading">
-      <h1 class="panel-title">About Us
-        {?about}<kbd class="pull-right">Visit Count: {about}</kbd>{/about}
-      </h1>
-      </div>
-      <div class="panel-body">
-        <h4>This is the About Us template. Its actually a dust partial which will be replaced when we navigate away from the page. Only this partial will change while the rest of the page will not be reloaded. SPA Magic!</h4>
-        <br>
-        <p>
-          <a class="btn btn-lg btn-success" href="http://linkedin.github.io/dustjs/" target="_blank" role="button">Check out DustJS</a>
-          <a class="btn btn-lg btn-warning pull-right" href="http://sailsjs.org" target="_blank" role="button">Check out SailsJS</a>
-      </p>
-      </div>
-    </div>
+  <div class="panel-heading">
+  <h1 class="panel-title">About Us</h1>
+  </div>
+  <div class="panel-body">
+    <h4>
+      Bringing an anylitical approach to web design, BRR will help you find the perfect way to turn your ideas or current business model into a smooth ecommerce machine.</br>
+      We work with designers and artists around to world to bring a custom approach to the front end construction of your website, so you get a site that not only stands out,
+      but complements the look and feel of your product set. We also do custom application design, as well as smaller, site based modifications to your Shopify store. 
+      Have a look at our <a href="#" class="links body-link" data-template="work">work</a></li> to get to know us better.
+    </h4>
+    <br>
+  </div>
+</div>

@@ -12,6 +12,7 @@
           <li role="presentation" class="active"><a href="#" class="links" data-template="home">Home</a></li>
           <li role="presentation"><a href="#" class="links" data-template="about">About</a></li>
           <li role="presentation"><a href="#" class="links" data-template="contact">Contact</a></li>
+          <li role="presentation"><a href="#" class="links" data-template="work">Work</a></li>
         </ul>
       </nav>
       <h3 class="text-muted">SPA - DustJS Templates, SailsJS Architecture</h3>
