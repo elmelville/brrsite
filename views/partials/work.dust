@@ -1,15 +1,29 @@
 <div class="panel panel-primary">
   <div class="panel-heading">
-  <h1 class="panel-title">About Us
-    {?work}<kbd class="pull-right">Visit Count: {work}</kbd>{/work}
+  <h1 class="panel-title">Work
   </h1>
   </div>
   <div class="panel-body">
-    <h4>This is the About Us template. Its actually a dust partial which will be replaced when we navigate away from the page. Only this partial will change while the rest of the page will not be reloaded. SPA Magic!</h4>
-    <br>
-    <p>
-      <a class="btn btn-lg btn-success" href="http://linkedin.github.io/dustjs/" target="_blank" role="button">Check out DustJS</a>
-      <a class="btn btn-lg btn-warning pull-right" href="http://sailsjs.org" target="_blank" role="button">Check out SailsJS</a>
-  </p>
+<div class='work-wrapper grid'>
+  <div class='work-item-text large--two-thirds medium--two-thirds small--one-whole'>
+    <h4>Tea Tribe</h4>
+    <p>We helped tea tribe set up their tea store to reflect thier wholistic approach to tea creation.</p>
+  </div>
+  <div class='work-item-image large--one-third medium--one-third small--one-whole'>
+    <img src='/images/pollen-home.png' alt='bigredrocket'>
+  </div>
+  <div class='work-item-image large--one-third medium--one-third small--one-whole'>
+    <img src='/images/noble-tile.png' alt='bigredrocket'>
+  </div>
+  <div class='work-item-text large--two-thirds medium--two-thirds small--one-whole'>
+    <p>We gave noble by noble the ability to offer their customers the option to choose how they would like their products </p>
+  </div>  
+  <div class='work-item-text large--two-thirds medium--two-thirds small--one-whole'>
+    <p>We helped Natures Vine set up a delivery system that would have otherwise been unavailable on the Shopify platform</p>
+  </div>
+  <div class='work-item-image large--one-third medium--one-third small--one-whole'>
+    <img src='/images/nv-tile.png' alt='bigredrocket'>
+  </div> 
+</div>
   </div>
 </div>
